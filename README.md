@@ -85,3 +85,7 @@ I Expect...
 > Developers need to do their jobs.
 
 > QA should be done at the beginning and specifies how the system runs.
+
+10. Nothing Fragile
+
+11. We cover for each other
