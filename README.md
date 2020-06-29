@@ -72,4 +72,16 @@ I Expect...
 
 > Code Coverage is NOT a management metric; it is a team isolated metric.
 
-7. You to say, No.
+7. Extreme quality
+
+8. We will not dump on QA
+
+> we do not use QA to find bugs in our systems.
+
+9. QA will find nothing
+
+> Why would we invest in a QA that expects the developers did their jobs?
+
+> Developers need to do their jobs.
+
+> QA should be done at the beginning and specifies how the user runs.
