@@ -37,3 +37,19 @@ I Expect...
 > Cheap and easy to make changes to the system.
 
 > The cost of the change should be proportional to size of the request.
+
+> Software is a compound word meaning 'changeable product'; We want to change our machines and developed software.
+
+> If your software is so hard to change, then you have created hardware and your architecture sucks.
+
+> Software should be changeable.
+
+> Clean code and tests.
+
+5. Continous Improvement
+
+> Of the system, of the code
+
+> Code should improve over time.
+
+> Humans improve situations with time.
