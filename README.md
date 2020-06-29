@@ -24,8 +24,16 @@ I Expect...
 
 > Burn in periods are false hopes. You should have the tests to prove your system is working and be shippable.
 
-3.) Stable Productivity
+3. Stable Productivity
 
 > The longer the project goes, the slower you DON'T get.
 
 > Features are produced at the same rate at the beginning, middle, and end.
+
+> Example: minimal estimate was 6 months for everything, because the cost of missing an estimate was so high (professionally and personally all items were overly estimated).
+
+4. Inexpesive adaptability
+
+> Cheap and easy to make changes to the system.
+
+> The cost of the change should be proportional to size of the request.
