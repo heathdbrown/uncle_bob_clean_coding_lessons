@@ -95,3 +95,7 @@ I Expect...
 > The most honest estimate is "I don't know"
 
 > PERT (Project Evalution in Real-time); Estimate given in 3 numbers (best case, average case, worst case)
+
+> No manager wants to hear 3 numbers, Managers will have to manage that type of risk. Do not absorb the risk if you don't know you can make it.
+
+13. You to say, No.
