@@ -99,3 +99,6 @@ I Expect...
 > No manager wants to hear 3 numbers, Managers will have to manage that type of risk. Do not absorb the risk if you don't know you can make it.
 
 13. You to say, No.
+
+## Lesson 4: Test Driven Development https://youtu.be/58jGpV2Cg50?list=PL1Rabu4aHyrygl3J4XUJbQMjgYoBagBeV&t=1331
+
