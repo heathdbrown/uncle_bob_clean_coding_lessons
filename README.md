@@ -89,3 +89,9 @@ I Expect...
 10. Nothing Fragile
 
 11. We cover for each other
+
+12. Honest estimates
+
+> The most honest estimate is "I don't know"
+
+> PERT (Project Evalution in Real-time); Estimate given in 3 numbers (best case, average case, worst case)
