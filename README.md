@@ -53,3 +53,15 @@ I Expect...
 > Code should improve over time.
 
 > Humans improve situations with time.
+
+> The expectation of the entire world
+
+6. Fearless Competence
+
+> minimalizing your personal risk will cause system rot.
+
+> Why are you afraid to touch the code?
+
+> If it ain't broke, don't fix it.
+
+> You get fearless competence with tests (the green light, that tells you the system works, and you believe it)
