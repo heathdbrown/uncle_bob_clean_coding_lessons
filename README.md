@@ -102,3 +102,18 @@ I Expect...
 
 ## Lesson 4: Test Driven Development https://youtu.be/58jGpV2Cg50?list=PL1Rabu4aHyrygl3J4XUJbQMjgYoBagBeV&t=1331
 
+Discipline of TDD:
+
+1st Law of TDD:
+
+> You are not allowed to write any production code, until you write a test that fails, because the production code does not exist.
+
+2nd Law of TDD:
+
+> You are not allowed to write more of a test that is sufficient to fail. (stop writing when it does not compile)
+
+3rd Law of TDD:
+
+> You are not allowed to write anymore production code than will pass the failing test.
+
+This creates a loop.
