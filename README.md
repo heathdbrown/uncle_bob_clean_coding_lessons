@@ -84,4 +84,4 @@ I Expect...
 
 > Developers need to do their jobs.
 
-> QA should be done at the beginning and specifies how the user runs.
+> QA should be done at the beginning and specifies how the system runs.
