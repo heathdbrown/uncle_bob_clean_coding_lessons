@@ -67,3 +67,7 @@ I Expect...
 > You get fearless competence with tests (the green light, that tells you the system works, and you believe it)
 
 > Check the code in a little bit better than you did before, the boy scout rule.
+
+> Write unit tests for code you have written first.
+
+7. You to say, No.
