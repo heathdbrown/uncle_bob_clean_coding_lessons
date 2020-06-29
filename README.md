@@ -70,4 +70,6 @@ I Expect...
 
 > Write unit tests for code you have written first.
 
+> Code Coverage is NOT a management metric; it is a team isolated metric.
+
 7. You to say, No.
